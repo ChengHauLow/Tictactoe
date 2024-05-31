@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "git.autofetch": true,
+    "Codegeex.Privacy": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "reactSnippets.settings.prettierEnabled": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 0,
+    "liveSassCompile.settings.autoprefix": [
+    
+        
+        "last 15 versions",
+        "> 1%",
+        "ie 8",
+        "ie 7"
+    ],
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/public/assets/styles"
+        },
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/public/assets/styles"
+        }
+    ],
+}
